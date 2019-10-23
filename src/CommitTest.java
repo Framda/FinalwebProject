@@ -1,1 +1,3 @@
-public class CommitTest {}
+public class CommitTest {
+	//1
+}
